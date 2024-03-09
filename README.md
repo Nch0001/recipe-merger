@@ -1,5 +1,4 @@
 ## **This software will remove censored elements and recipes using them.**
-
 ## **HOW TO USE:**
 
 ### Upon opening you will be prompted to select files to do so you can [CTRL CLICK] each save file to merge (No limit on how many)
