@@ -1,5 +1,5 @@
 # **This software will remove censored elements and recipes using them.**
-### First release any bugs should be reported in the issues section
+### Any bugs should be reported [Here]()
 
 # **HOW TO USE:**
 
