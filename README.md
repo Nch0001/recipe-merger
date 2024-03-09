@@ -1,4 +1,5 @@
-# *HOW TO USE:* (**Please note this software will remove censored elements and recipes using them.**)
+# *HOW TO USE:*
+##  (**Please note this software will remove censored elements and recipes using them.**)
 
 ### Upon opening you will be prompted to select files to do so you can [CTRL CLICK] each save file to merge (No limit on how many saves to merge at once.)
 ### Directly after you will be prompted to select a save location. (It must be a [json file](https://en.wikipedia.org/wiki/JSON) and is recommended to be an empty file)
