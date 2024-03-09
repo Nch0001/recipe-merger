@@ -1,1 +1,2 @@
-Click on the right side most recent release description there
+
+(https://github.com/Nch0001/recipe-merger/releases/tag/InfSaveMerger)https://github.com/Nch0001/recipe-merger/releases/tag/InfSaveMerger
