@@ -1,4 +1,4 @@
-# https://github.com/Nch0001/recipe-merger/releases/tag/InfSaveMerger
+# [Latest Releae Here]https://github.com/Nch0001/recipe-merger/releases/tag/InfSaveMerger
 
 # **This software will remove censored elements and recipes using them.**
 ## First release any bugs should be reported in the issues section
