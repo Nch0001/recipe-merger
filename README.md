@@ -1,5 +1,5 @@
 # **This software will remove censored elements and recipes using them.**
-### Any bugs should be reported [Here]()
+### Any bugs should be reported [Here](https://github.com/Nch0001/recipe-merger/issues/new)
 
 # **HOW TO USE:**
 
