@@ -10,3 +10,5 @@
 
 ## Any bugs should be reported [Here](https://github.com/Nch0001/recipe-merger/issues/new)
 ## You can find the [Latest Releae Here](https://github.com/Nch0001/recipe-merger/releases/tag/InfSaveMerger)
+
+# All rights reserved
