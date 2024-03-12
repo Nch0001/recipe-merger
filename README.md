@@ -9,6 +9,6 @@
 #### 3. It will then auto merge the files ensuring no duplicates and will save them to the selected save location.
 
 ## Any bugs should be reported [Here](https://github.com/Nch0001/recipe-merger/issues/new)
-## You can find the [Latest Releae Here](https://github.com/Nch0001/recipe-merger/releases/tag/InfSaveMerger)
+##  You can find the [Latest Releae Here](https://github.com/Nch0001/recipe-merger/releases/tag/v1.1.0)
 
 # All rights reserved
